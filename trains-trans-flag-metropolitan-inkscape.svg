@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="3in"
+   height="2in"
+   viewBox="0 0 600 400"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="trains-trans-flag-metropolitan-inkscape.svg"
+   inkscape:export-filename="trains-trans-flag-metropolitan.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="7.728569"
+     inkscape:cy="98.433238"
+     inkscape:document-units="in"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-paths="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="false"
+     scale-x="2.2"
+     viewbox-x="-0.4"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid853"
+       units="in"
+       spacingx="2.54"
+       spacingy="2.54" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Background">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:13.25975513;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect821-3-6"
+       width="600"
+       height="400"
+       x="1.2210704e-14"
+       y="5.5948251e-14" />
+  </g>
+  <g
+     inkscape:label="Lines"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-246.19998)"
+     style="display:inline">
+    <rect
+       style="opacity:1;fill:#f5a9b8;fill-opacity:1;stroke:none;stroke-width:4.19310284;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect821"
+       width="600"
+       height="40"
+       x="1.2210704e-14"
+       y="386.19998" />
+    <rect
+       style="opacity:1;fill:#5bcefa;fill-opacity:1;stroke:none;stroke-width:4.19310284;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect821-3"
+       width="600"
+       height="40"
+       x="-1.7763568e-15"
+       y="466.20001" />
+    <rect
+       style="fill:#5bcefa;fill-opacity:1;stroke:none;stroke-width:4.44444466;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4149"
+       width="20"
+       height="20"
+       x="120"
+       y="446.20001" />
+    <rect
+       style="fill:#f5a9b8;fill-opacity:1;stroke:none;stroke-width:4.44444466;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect4157"
+       width="20"
+       height="20"
+       x="120"
+       y="366.19998" />
+    <rect
+       y="406.19998"
+       x="120"
+       height="20"
+       width="20"
+       id="rect4151"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.44444466;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Transfer Bubble" />
+</svg>
